@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/python-hyper/hyperlink/commit/978f2e645578aad856fe5e03e2e2c017c8c0f7ca",
       "git:hexsha": "978f2e645578aad856fe5e03e2e2c017c8c0f7ca",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-11T23:48:45.006577+00:00"
     },
     {
       "@id": "https://repolex.ai/r/python-hyper/hyperlink/commit/8de6c022b8c31987227f9b5473089bbb06bba36e",
